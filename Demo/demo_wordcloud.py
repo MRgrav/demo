@@ -1,5 +1,3 @@
-!python pip install wordcloud
-!python pip install wikipedia
 
 import wikipedia
 from wordcloud import WordCloud, STOPWORDS
